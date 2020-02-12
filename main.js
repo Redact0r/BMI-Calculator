@@ -8,3 +8,5 @@ function calculateBMI() {
 
 }
 
+//function for "after day 1". Essentially after day 1, we should remove the "height" form and store it's value somewhere.
+
